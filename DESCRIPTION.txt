@@ -1,0 +1,8 @@
+A deadly serious samurai goes fishing, and no fish gets reeled in without a duel. Drop your hook, steer past the cheap fish, hook a good one and fight it one on one: nine fish from a sardine to a giant squid, and none of them wants to be sushi. Sell your catch, upgrade your blade, line and reputation, and go deeper.
+
+Controls: A/D move, J quick slash, K heavy slash, L block (tap with a direction to dash), W jump, S duck, E shop, Tab pause. Gamepad and touch supported.
+
+Credits:
+Pufferfish by TeamAlpha, OpenGameArt (CC-BY 3.0)
+"Fight" announcer voice by Alba MacKenna (CC-BY 4.0)
+Samurai: Martial Hero by LuizMelo (CC0). Fish: Fish DB32 by ARoachIFoundOnMyPillow, squid by Shozuki (CC0). Announcer: Kenney (CC0). Sound effects: StarNinjas, artisticdude, rubberduck, Luke.RUSTLTD, Kenney (CC0). Music: Wolfgang_, Kistol (CC0).
